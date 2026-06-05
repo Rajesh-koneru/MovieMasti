@@ -133,7 +133,7 @@ docker-compose up --build
 ```
 
 The application will be accessible unified at: **`http://localhost:8080`**.
-* The MySQL container database is accessible on port `3306` with the username `root` and password `Bujji@192921` as configured in the `docker-compose.yml`.
+* The MySQL container database is accessible on port `3306` with the username `#` and password `#` as configured in the `docker-compose.yml`.
 
 ---
 
